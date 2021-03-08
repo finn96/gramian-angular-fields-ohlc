@@ -1,0 +1,8 @@
+name: gaf-ohlc
+dependencies:
+    - python=3.8
+    - numpy
+    - matplotlib
+    - jupyterlab
+    - pandas
+    - conda-forge::scikit-learn
