@@ -1,6 +1,6 @@
 # OHLC Candlesick Classification via imaging transform of 1D price data
 
-This repo is an exploration of using grammian angular fields to transform 1D price data to 2D space and then performing classification on the higher-dimensional data.
+This repo is an exploration of using gramian angular fields to transform 1D price data to 2D space and then performing classification on the higher-dimensional data.
 
 I will update this readme with relevant papers / articles soon.
 
